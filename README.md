@@ -22,10 +22,10 @@ This project performs web scraping on relevant websites in the payments, fintech
 ## **Requirements**
 - Python 3.9 or higher.
 - Dependencies:
-- selenium
-- webdriver\_manager
-- openai
-- deep-translator
+  - selenium
+  - webdriver\_manager
+  - openai
+  - deep-translator
 -----
 ## **Usage**
 1. **Setup**:
